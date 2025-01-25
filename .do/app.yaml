@@ -4,5 +4,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: Sumethisal/PIU-mission8
+    repo: Sumethisal/mission9-laravel-webii
   name: sample-php
